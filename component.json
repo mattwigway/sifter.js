@@ -1,6 +1,7 @@
 {
   "name": "sifter.js",
   "description": "Textually search arrays and hashes of objects by property – or multiple properties.",
+  "version": "0.3.4",
   "main": "lib/sifter.js",
   "scripts": "lib/sifter.js"
 }
